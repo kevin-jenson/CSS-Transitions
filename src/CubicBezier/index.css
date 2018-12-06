@@ -39,5 +39,5 @@ ul {
 }
 
 .item-4 .ball {
-  transition: all 0.5s cubic-bezier(0.41, 0, 0.19, 2);
+  transition: all 3s cubic-bezier(0.41, -0.4, 0.19, 2);
 }
